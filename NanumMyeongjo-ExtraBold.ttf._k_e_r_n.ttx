@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="T" v="-75"/>
+      <pair l="A" r="V" v="-126"/>
+      <pair l="A" r="W" v="-113"/>
+      <pair l="A" r="Y" v="-122"/>
+      <pair l="A" r="v" v="-75"/>
+      <pair l="A" r="w" v="-75"/>
+      <pair l="A" r="y" v="-75"/>
+      <pair l="F" r="A" v="-56"/>
+      <pair l="L" r="T" v="-94"/>
+      <pair l="L" r="V" v="-113"/>
+      <pair l="L" r="W" v="-113"/>
+      <pair l="L" r="Y" v="-113"/>
+      <pair l="L" r="y" v="-56"/>
+      <pair l="P" r="A" v="-56"/>
+      <pair l="R" r="T" v="-30"/>
+      <pair l="R" r="V" v="-75"/>
+      <pair l="R" r="W" v="-75"/>
+      <pair l="R" r="Y" v="-94"/>
+      <pair l="R" r="y" v="-18"/>
+      <pair l="T" r="A" v="-75"/>
+      <pair l="T" r="a" v="-88"/>
+      <pair l="T" r="c" v="-88"/>
+      <pair l="T" r="e" v="-88"/>
+      <pair l="T" r="i" v="-37"/>
+      <pair l="T" r="o" v="-100"/>
+      <pair l="T" r="r" v="-68"/>
+      <pair l="T" r="s" v="-68"/>
+      <pair l="T" r="u" v="-88"/>
+      <pair l="T" r="w" v="-88"/>
+      <pair l="T" r="y" v="-88"/>
+      <pair l="V" r="A" v="-107"/>
+      <pair l="V" r="a" v="-88"/>
+      <pair l="V" r="e" v="-75"/>
+      <pair l="V" r="i" v="-37"/>
+      <pair l="V" r="o" v="-88"/>
+      <pair l="V" r="r" v="-68"/>
+      <pair l="V" r="u" v="-68"/>
+      <pair l="V" r="y" v="-68"/>
+      <pair l="W" r="A" v="-100"/>
+      <pair l="W" r="a" v="-88"/>
+      <pair l="W" r="e" v="-75"/>
+      <pair l="W" r="i" v="-18"/>
+      <pair l="W" r="o" v="-88"/>
+      <pair l="W" r="r" v="-51"/>
+      <pair l="W" r="u" v="-51"/>
+      <pair l="W" r="y" v="-51"/>
+      <pair l="Y" r="A" v="-75"/>
+      <pair l="Y" r="a" v="-94"/>
+      <pair l="Y" r="e" v="-88"/>
+      <pair l="Y" r="i" v="-37"/>
+      <pair l="Y" r="o" v="-88"/>
+      <pair l="Y" r="p" v="-68"/>
+      <pair l="Y" r="q" v="-88"/>
+      <pair l="Y" r="u" v="-68"/>
+      <pair l="Y" r="v" v="-68"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
