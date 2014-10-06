@@ -1,0 +1,45 @@
+Fonts
+  Font:
+    Common name: 나눔명조 ExtraBold
+    Sub family: ExtraBold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright © 2010 NHN Corporation. All rights reserved. Font designed by FONTRIX.
+    License: NHN Corporation
+    License url: http://www.nhncorp.com
+    Version: Version 2.030;PS 1;hotconv 1.0.56;makeotf.lib2.0.21325
+    Vendor: NHN Corporation
+    Vendor url: http://www.nhncorp.com
+    Designer: 박용락; 윤지희;
+    Designer url: http://www.fontrix.co.kr
+    Glyph count: 21243
+    Character count: 12452
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 68
+        Orthography:
+          Common name: Subset cyrillic
+          Support level: fragmentary
+          Percent coverage: 66
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: partial
+          Percent coverage: 84
